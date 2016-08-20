@@ -1,13 +1,13 @@
-Metadata-Version: 1.1
-Name: ssjrecsys
+Metadata-Version: 1.0
+Name: bdmLib
 Version: 1.0.0
 Summary: this is a 
-Home-page: UNKNOWN
+Home-page: https://github.com/aturbofly/bdmLib.git
 Author: aturbo
 Author-email: 592559065@qq.com
-License: suishou technology
+License: 
 Description: UNKNOWN
-Keywords: recommender
+Keywords: bigdata,machine learning, recommendation system
 Platform: UNKNOWN
 Classifier: Topic :: Recommendation System
 Classifier: Topic :: Text Processing
